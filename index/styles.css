@@ -1,0 +1,150 @@
+        .block {
+            display: block;
+            background-color: lightblue;
+            margin: 10px;
+            padding: 20px;
+        }
+
+        .inline {
+            display: inline;
+            background-color: lightgreen;
+            margin: 10px;
+            padding: 20px;
+        }
+
+        .flex {
+            display: flex;
+            background-color: lightcoral;
+            margin: 10px;
+            padding: 20px;
+        }
+.cards{width:80px;
+height: 80px;
+background-color: green;
+border: 1px solid black;}
+
+
+.blocks {
+    display: flex;
+    color: blue;}
+
+  .blockss
+  {
+  
+    display: flex;
+flex-direction: row;
+
+  }
+
+  .blocksss
+  {
+  flex-wrap: wrap;
+  display: flex  ;
+  width: 200px;
+  }
+
+
+  .blockssss
+  {flex-flow: column;
+  display: flex  ;
+  }
+
+  .container
+  {
+    justify-content:center;
+  display: flex;}
+
+  .flexcontainer
+  {
+flex-grow: initial;
+  display: flex;
+  }
+  .flexcontainershrink
+  {   
+    flex-shrink: 2;
+    display: flex;
+  }
+  .flexcontainerbasis
+  {
+    flex-basis: 300px;
+    display: flex;
+
+  }
+.cardbasis{
+  background-color: rgb(70, 205, 7);
+  border: 1px solid rgb(221, 17, 102);
+  flex-basis: 300px;
+}
+.cardgrow{
+  background-color: rgb(121, 206, 255);
+  border: 1px solid rgb(161, 16, 158);
+  flex-grow: 2;
+} 
+
+.cardshrink{
+  background-color: rgb(242, 7, 7);
+  border: 1px solid rgb(255, 255, 255);
+  flex-shrink: 2;
+} 
+
+.containersss {
+    display: flex;
+    width: 100%;
+    min-height: 100px;
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    margin: 20px 0;
+    gap: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.element1 {
+    flex: 0 0 50%;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.element2 {
+    flex: 1;
+    background-color: #2196F3;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.element3 {
+    flex: 0 0 100px;
+    background-color: #f44336;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #1c1919;
+    padding: 1rem 0;
+    gap: 2rem; 
+}
+
+.menu-link {
+    color: rgb(35, 5, 5);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+}
+
+.menu-link:hover {
+    background-color: #5e1a1a;
+    border-radius: 4px;
+}
+
