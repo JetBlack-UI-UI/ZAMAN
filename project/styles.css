@@ -1,0 +1,324 @@
+
+body {
+    display: flex;
+flex-wrap: wrap;
+}
+
+.card  {
+    background-color: black;
+    display : flex;
+    width: 1300px; ;
+    height: 545px;
+    border-radius: 32px;
+}
+.gearimg {
+    margin-bottom:40px ;
+    margin-left: 40px;
+    margin-top:40px ;
+    width:389px ;
+    height: 465px;
+}
+.gear
+{
+    background-color: rgba(25, 25, 25, 1);
+color: white;
+border-radius: 6px;
+ width: 71px;
+height: 27px;
+ margin-left: 53px;
+font-weight: 400;
+font-style: regular;
+font-size: 17px;
+line-height: 27px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 48px;
+margin-right: 682px;
+margin-bottom: 48.44;
+display: block;
+}
+.episode
+{
+
+    color: rgba(17, 141, 168, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: regular;
+font-size: 17px;
+line-height: 27px;
+margin-left: 53px;
+margin-top: 48.44px;
+margin-bottom: 17.56px;
+margin-right: 737px;
+width: 87px;
+height: 27px;
+}
+.title
+{    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 64px;
+    line-height: 70.4px;
+    width: 676px;
+    height: 141px;
+    margin-left: 53px;
+margin-right: 142px;
+}
+
+.subtitle {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 22px;
+    line-height: 33px;
+    width: 773px;
+    height: 99xpx;
+    margin-left: 53px;
+    margin-right: 45px;
+    margin-top: 28px;
+}
+
+.btn {
+    background-color: rgba(17, 141, 168, 1);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 208px;
+    height: 51px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: 53px;
+    margin-top: 18px;
+    margin-right: 625px;
+}
+
+.card2  {
+    background-color: rgba(225, 237, 230, 1);
+    width: 290px; ;
+    height: 514px;
+    margin-top: 289px;
+}
+.img2 {
+    margin-left: 20px;
+    margin-top:20px ;
+
+}
+.author {
+    color: rgba(134, 146, 139, 1);
+    font-family:Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 100%px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 177px;
+    width: 93px;
+    height: 19px;
+    letter-spacing: 0%;
+}
+.name {
+    color: rgba(44, 45, 53, 1);
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 20px;
+    line-height: 100%px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 70px;
+    width: 200px;
+    height: 28px;
+    letter-spacing: 0%;
+}
+.made_from {
+    color: rgba(44, 45, 53, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 100%;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 250px;
+    height: 19px;
+    letter-spacing: 0%;
+}
+.price {
+    color: rgba(89, 141, 102, 1);
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 20px;
+    line-height: 100%;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 167px;
+    width: 103px;
+    height: 23px;
+    letter-spacing: 0%;
+}
+.buy {
+    color: rgba(89, 141, 102, 1);
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 100%;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 167px;
+    width: 250px;
+    height: 50px;
+    letter-spacing: 0%;
+    border: 1px solid rgba(89, 141, 102, 1);
+    background-color: transparent;
+}
+.card3  {
+
+    background-color: rgba(255, 255, 255, 1);
+    width: 380px; ;
+    height: 582px;
+margin-top: 221px;
+    border-radius: 1px;
+    border: 1px solid rgba(242, 246, 250, 1);
+    border-color: rgba(242, 246, 250, 1);
+    margin-left: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.name2 {
+    color: rgba(44, 45, 53, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-style: regular;
+    font-size: 24px;
+    line-height: 100%;
+    margin-left: 44px;
+    margin-top: 50px;
+    margin-right: 89px;
+    width: 247px;
+    height: 35px;
+    letter-spacing: 0%;
+}
+.subtitle2 {
+    color:rgba(46, 54, 62, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 150%;
+    margin-left: 44px;
+    margin-top: 12px;
+    margin-right: 96px;
+    width: 240px;
+    height: 48px;
+    letter-spacing: 0%;
+}
+.price2 {
+    color: rgba(67, 75, 83, 1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 24px;
+    line-height: 150%;
+    margin-left: 44px;
+    margin-top: 24px;
+    margin-right: 228px;
+    width: 108px;
+    height: 36px;
+    letter-spacing: 0%;
+}
+
+.btn3  {
+    background-color: rgba(254, 216, 76, 1);
+    color:rgba(46, 54, 62, 1);
+    border: none;
+    border-radius: 8px;
+    width: 163px;
+    height: 68px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 152%;
+    margin-left: 44px;
+    margin-top: 18px;
+    margin-right: 44px;
+    
+}
+
+
+ .images    
+ {
+    display: flex;
+ }
+.card4  {
+
+    background-color:rgba(12, 11, 21, 1);
+    width: 330px; ;
+    height: 400px;
+    margin-top: 403px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.dots
+{
+
+    margin-top: 23px;
+    margin-left: 191px;
+    margin-right: 23px;
+width: 28px;
+height: 6px;
+}
+.cricle {
+    width: 60px;
+    height: 60px;
+    margin-left: 27.21px;
+    margin-top: 21.17px;
+
+}
+.about {
+    color: rgba(255, 255, 255, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: regular;
+    font-size: 22px;
+    line-height: 27px;
+    margin-left: 26.5px;
+    margin-top: 18px;
+
+    height: 27px;
+    letter-spacing: 0%;
+}
+.author2
+{
+    width: 262px;
+    height: 22px;
+    margin-left: 26.5px;
+    margin-right: 41.5px;
+    margin-top: 24px;
+    color: rgba(128, 159, 184, 1);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text1
+{
+    width: 260px;
+    height: 147px;
+    margin-left: 27.72px;
+    margin-right: 42.28px;
+    margin-top: 26.63px;
+    color: rgba(128, 159, 184, 1);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+}
